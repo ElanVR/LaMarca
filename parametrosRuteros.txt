@@ -4,24 +4,28 @@
       "nombre": "Rutero 1",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -33,24 +37,28 @@
       "nombre": "Rutero 2",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -62,24 +70,28 @@
       "nombre": "Rutero 3",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -91,24 +103,28 @@
       "nombre": "Supervisor Central",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -120,24 +136,28 @@
       "nombre": "Rutero 8",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -149,24 +169,28 @@
       "nombre": "Rutero 9",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -178,24 +202,28 @@
       "nombre": "Rutero 10",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -207,24 +235,28 @@
       "nombre": "Supervisor Xela",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -236,24 +268,28 @@
       "nombre": "Rutero 13",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -265,24 +301,28 @@
       "nombre": "Rutero 14",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -294,24 +334,28 @@
       "nombre": "Supervisor Nororiente",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -323,24 +367,28 @@
       "nombre": "Rutero 16",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -352,24 +400,28 @@
       "nombre": "Rutero 17",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -381,24 +433,28 @@
       "nombre": "Rutero 4",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -410,24 +466,28 @@
       "nombre": "Rutero 5",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -439,24 +499,28 @@
       "nombre": "Rutero 6",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
@@ -468,24 +532,28 @@
       "nombre": "Rutero 12",
       "semanas": {
         "semana_1": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
+          "Nombre": "",
           "combustible": 0,
           "comida": 0,
           "hospedaje": 0,
