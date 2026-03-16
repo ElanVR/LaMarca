@@ -5,30 +5,30 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 4000,
-          "comida": 4000,
+          "combustible": 403.03,
+          "comida": 250,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
+          "combustible": 507.39,
+          "comida": 250,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 479.39,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 560,
+          "comida": 320,
+          "hospedaje": 125,
           "otros": 0
         }
       }
@@ -38,30 +38,30 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 316.40,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 326.92,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 352.97,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 325.48,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         }
       }
@@ -71,30 +71,30 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 583.33,
+          "comida": 565,
+          "hospedaje": 625,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 615.15,
+          "comida": 565,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 838.30,
+          "comida": 685,
+          "hospedaje": 750,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 500.61,
+          "comida": 565,
+          "hospedaje": 500,
           "otros": 0
         }
       }
@@ -137,30 +137,30 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 590.55,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 590.55,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 590.55,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 590.55,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         }
       }
