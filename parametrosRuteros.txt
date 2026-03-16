@@ -104,7 +104,7 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
@@ -170,28 +170,28 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
@@ -368,30 +368,30 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
+          "combustible": 330.06,
+          "comida": 250,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
+          "combustible": 575.27,
+          "comida": 250,
           "hospedaje": 0,
-          "otros": 0
+          "otros": 30
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
+          "combustible": 500.61,
+          "comida": 250,
           "hospedaje": 0,
-          "otros": 0
+          "otros": 30
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 420.85,
+          "comida": 460,
+          "hospedaje": 450,
           "otros": 0
         }
       }
@@ -434,30 +434,30 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
+          "combustible": 596.48,
+          "comida": 250,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 368.24,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         }
       }
@@ -467,28 +467,28 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
@@ -500,28 +500,28 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 491.88,
+          "comida": 290,
+          "hospedaje": 250,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 500,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
