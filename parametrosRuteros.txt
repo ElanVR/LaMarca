@@ -38,28 +38,28 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 316.40,
+          "combustible": 338.04,
           "comida": 530,
           "hospedaje": 500,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 326.92,
+          "combustible": 311.65,
           "comida": 530,
           "hospedaje": 500,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 352.97,
+          "combustible": 419.15,
           "comida": 530,
           "hospedaje": 500,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 325.48,
+          "combustible": 348.73,
           "comida": 530,
           "hospedaje": 500,
           "otros": 0
