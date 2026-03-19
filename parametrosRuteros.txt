@@ -344,7 +344,7 @@
           "Nombre": "",
           "combustible": 1166,
           "comida": 566,
-          "hospedaje": 1166,
+          "hospedaje": 600,
           "otros": 0
         },
         "semana_3": {
