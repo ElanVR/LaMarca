@@ -408,9 +408,9 @@
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 455.13,
+          "comida": 410,
+          "hospedaje": 375,
           "otros": 0
         },
         "semana_3": {
