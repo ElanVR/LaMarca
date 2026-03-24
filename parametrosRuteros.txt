@@ -236,7 +236,7 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
+          "combustible": 5000,
           "comida": 0,
           "hospedaje": 0,
           "otros": 0
