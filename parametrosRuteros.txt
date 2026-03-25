@@ -335,30 +335,30 @@
       "semanas": {
         "semana_1": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 948.91,
+          "comida": 565,
+          "hospedaje": 625,
           "otros": 0
         },
         "semana_2": {
           "Nombre": "",
-          "combustible": 1166,
-          "comida": 566,
-          "hospedaje": 600,
+          "combustible": 1294.47,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_3": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 1029,
+          "comida": 530,
+          "hospedaje": 500,
           "otros": 0
         },
         "semana_4": {
           "Nombre": "",
-          "combustible": 0,
-          "comida": 0,
-          "hospedaje": 0,
+          "combustible": 1104.83,
+          "comida": 565,
+          "hospedaje": 375,
           "otros": 0
         }
       }
