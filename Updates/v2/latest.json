@@ -1,7 +1,7 @@
 {
-  "versionCode": 20000,
-  "versionName": "2.0.0",
+  "versionCode": 20001,
+  "versionName": "2.0.0.0.1",
   "packageName": "com.companion.app",
-  "apkUrl": "https://raw.githubusercontent.com/ElanVR/LaMarca/main/Updates/v2/companion-2.0.0.apk",
-  "sha256": "7BF585DCD6F42FAD4CA2EEF100DA897216DD488B199E804AD1A3E078B65AE942"
+  "apkUrl": "https://raw.githubusercontent.com/ElanVR/LaMarca/main/Updates/v2/companion-2.0.0.0.1.apk",
+  "sha256": "757DD8EEDA838B3D7CFC537D81FAA870A88F73A847290F2A51B0C3F5BC898060"
 }
