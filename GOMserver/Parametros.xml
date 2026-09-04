@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <empresa>
+    <companies>
+      <company>
+        <nombre>GOMSolutions</nombre>
+        <servidor>GOM</servidor>
+        <database>GOMData</database>
+      </company>
+    </companies>
+    <servers>
+      <server>
+       <nombre>GOM</nombre>
+        <direccionip>192.168.0.2</direccionip>
+        <puerto>1433</puerto>
+        <dialecto>TypeDataBase.SQL2005</dialecto>
+      </server>
+    </servers>
+  </empresa>
+</configuration>

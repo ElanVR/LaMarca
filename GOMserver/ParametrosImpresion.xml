@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <impresion>
+	<formato>PIC001</formato>
+	<archivo>c:\GOMServer\TransactionReports\PIC001.repx</archivo>
+	<clasificacion>K</clasificacion>
+	<numero>1</numero>
+	<copias>1</copias>
+	<query><![CDATA[SELECT 
+ Pedido.IdPedido
+,Pedido.Correlativo
+,Pedido.FechaPedido
+,Pedido.NoNit
+,Pedido.NombreCliente
+,Pedido.Direccion
+,Pedido.Observaciones
+,Producto.LlaveProducto
+,Producto.Descripcion
+,Ubicacion.Nombre Ubicacion
+,PedidoDespacho.CodigoMedida
+,PedidoDespacho.CantidadMedida
+FROM Pedido, PedidoDetalle, PedidoDespacho, Stock, Lote, Producto, Ubicacion
+WHERE 
+	Pedido.IdPedido = PedidoDetalle.IdPedido
+AND PedidoDetalle.IdPedidoDetalle = PedidoDespacho.IdPedidoDetalle
+AND PedidoDespacho.IdStock = Stock.IdStock
+AND Stock.IdLote = Lote.IdLote
+AND Lote.IdProducto = Producto.IdProducto
+AND Stock.IdUbicacion = Ubicacion.IdUbicacion
+AND Pedido.IdPedido = @IdDocumento]]></query>
+	<impresora><![CDATA[]]></impresora>
+  </impresion>
+  <impresion>
+	<formato>ENV001</formato>
+	<archivo>I:\GOMServer\Formatos\ENV001.repx</archivo>
+	<clasificacion>I</clasificacion>
+	<numero>1</numero>
+	<query><![CDATA[SELECT Vendedor.Nombre Vendedor, Factura.IdFactura, Factura.Serie, Factura.Correlativo, Factura.Fecha, Factura.NoNit, Factura.NombreCliente, Factura.Direccion, Factura.MontoFlete, Factura.MontoTotal, Factura.Observaciones, Producto.LlaveProducto, Producto.Descripcion, ProductoMedida.CodigoMedida, FacturaDetalle.CantidadMedida, FacturaDetalle.PrecioAfectado, FacturaDetalle.PrecioSugerido, FacturaDetalle.PrecioVenta, FacturaDetalle.MontoIva + FacturaDetalle.MontoSubtotal DetalleTotal, FacturaDetalle.CantidadMedida * FacturaDetalle.PrecioSugerido TotalSugerido, FacturaDetalle.CantidadMedida * FacturaDetalle.PrecioVenta TotalVenta FROM Factura, FacturaDetalle, ProductoMedida, Producto, Vendedor WHERE Factura.IdFactura = FacturaDetalle.IdFactura AND FacturaDetalle.IdProductoMedida = ProductoMedida.IdProductoMedida AND ProductoMedida.IdProducto = Producto.IdProducto AND Factura.IdFactura = @IdDocumento AND Factura.IdVendedor = Vendedor.IdVendedor]]></query>
+	<impresora><![CDATA[FX-890 ENVIOS]]></impresora>
+  </impresion>  
+</configuration>
