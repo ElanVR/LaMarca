@@ -1,0 +1,20 @@
+GOMserver - Impresión de recibos anulados (2026-09-29)
+
+Este paquete conserva el EXE, el actualizador y la configuración del paquete
+"GOMserver_recibos_todos_estados_20260929". Actualiza solamente la extensión.
+
+En Operar Recibos > Ingresados, el botón Imprimir está disponible para recibos
+emitidos y anulados. El recibo anulado usa el mismo formato de impresión que
+corresponde a su tipo o serie; la vista previa vuelve a consultar la base de
+datos y conserva las verificaciones de empresa, sucursal, tipo y permiso.
+Aplicar más facturas continúa deshabilitado para recibos anulados.
+
+Instalación:
+1. Cerrar GOMserver y respaldar los cuatro archivos actuales con estos nombres.
+2. Copiar los cuatro archivos de este paquete a la carpeta de instalación.
+3. Iniciar GOMserver y consultar un recibo anulado en Ingresados. Confirmar que
+   Imprimir abre la vista previa y muestra la marca de anulación del formato.
+
+Esta entrega no cambia los recibos ni otros datos en SQL. La compilación fue
+correcta y se verificó la visibilidad del botón con recibos simulados emitido
+y anulado. Aún no se ha validado una impresión con un recibo anulado real.
